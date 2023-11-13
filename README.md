@@ -4,10 +4,10 @@ Welcome to the Android Lab Assignments repository! This collection holds all the
 
 ## Assignment Names
 
-1. **Assignment 1: Simple Calculator**
+1. **Simple Calculator**
 
-3. **Assignment 2: Using Canvas**
+3. **Using Canvas**
 
-4. **Assignment 3: Music Player**
+4. **Music Player**
 
 Happy coding!
